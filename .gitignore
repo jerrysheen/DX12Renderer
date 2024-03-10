@@ -3,5 +3,11 @@
 bin/
 bin-int/
 
+Chapter4_Init_Direct3D/.vs/
+Chapter4_Init_Direct3D/x64/
+Chapter4_Init_Direct3D/*.suo
+Chapter4_Init_Direct3D/*.filters
+Chapter4_Init_Direct3D/*.user
+
 # Files
 *.user

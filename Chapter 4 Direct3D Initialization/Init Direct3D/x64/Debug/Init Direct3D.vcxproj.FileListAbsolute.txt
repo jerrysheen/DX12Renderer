@@ -1,1 +1,0 @@
-F:\STWorkSation\GithubProject\DX12Renderer\Chapter 4 Direct3D Initialization\Init Direct3D\x64\Debug\Init Direct3D.exe
