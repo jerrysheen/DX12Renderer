@@ -1,8 +1,11 @@
 #pragma once
 
 #include "../Common/d3dApp.h"
+#include "../Common/UploadBuffer.h"
 #include <DirectXColors.h>
+#include <WindowsX.h>
 
+using Microsoft::WRL::ComPtr;
 using namespace DirectX;
 
 struct Vertex
